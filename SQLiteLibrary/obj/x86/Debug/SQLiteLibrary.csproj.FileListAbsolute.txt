@@ -1,0 +1,16 @@
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\bin\x86\Debug\SQLiteLibrary.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\bin\x86\Debug\SQLiteLibrary.pdb
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\bin\x86\Debug\SQLiteLibrary.pri
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\SQLiteLibrary.dll
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\SQLiteLibrary.pdb
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\priconfig.xml
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\layout.resfiles
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\resources.resfiles
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\pri.resfiles
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\qualifiers.txt
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

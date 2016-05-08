@@ -1,0 +1,3 @@
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteLibrary\SQLiteLibrary.csproj;x86
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\SQLiteOperations\SQLiteOperations.jsproj;x86
+c:\users\kishor bikram oli\documents\visual studio 2015\Projects\SQLiteOperations\WinRuntimes\WinRuntimes.csproj;x86

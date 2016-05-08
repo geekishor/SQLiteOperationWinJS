@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>SQLiteOperations</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- SQLiteOperations references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="js/script.js"></script>
+</head>
+<body>
+    <p>SQLite Operations</p>
+    <button onclick="createDatabase()">Create Database</button>
+    <br />
+    <br />
+    <input placeholder="Country Name" id="name" />
+    <input placeholder="Capital City" id="city"/>
+    <button onclick="insertRecords()">Insert into Database</button>
+    <br />
+    <br />
+    <button onclick="readDatabase()">Read from Database</button>
+    <br />
+    <div id="content"></div>
+    <br /><br />
+    <button onclick="updateRecord()">Update records</button>
+    <br />
+    <br />
+    <button onclick="deleteRecord()">Delete records from Database</button>
+    <br />
+    <br />
+</body>
+</html>
